@@ -1,5 +1,5 @@
 {
-  "name": "ac-sample-web-module",
+  "name": "@kevintap/ac-sample-web-module",
   "version": "1.0.1",
   "repository": "git@github.com:/kevintap/ac-sample-web-module",
   "author": "Kevin Tapperson <kevintap@us.ibm.com>",
