@@ -1,0 +1,24 @@
+{
+  "name": "ac-sample-web-module",
+  "version": "1.0.0",
+  "repository": "git@github.com:/kevintap/ac-sample-web-module",
+  "author": "Kevin Tapperson <kevintap@us.ibm.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "html-loader": "^1.0.0",
+    "ts-loader": "^6.2.1",
+    "typescript": "^3.8.3",
+    "webpack": "^4.42.0",
+    "webpack-cli": "^3.3.11"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "dist/bundle.js"
+  ],
+  "main": "dist/bundle.js",
+  "scripts": {
+    "build": "webpack"
+  }
+}
